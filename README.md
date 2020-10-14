@@ -1,5 +1,7 @@
 ## Telegram-Hassle-Free-Script
 
+# For pro version contact me :- https://t.me/daredevilkinng
+
 # Script to export members Telegram Groups and Channels to a CSV file and to add members to Telegram Groups or Channels.
 
 > Exporting and adding members to channels requires the user from which the script is launched to be a Channel admin.
